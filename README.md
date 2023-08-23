@@ -9,5 +9,5 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-file:///D:/py/py%20pj%20copy.png  
+![py pj copy](https://github.com/nhissue/nhissue.github.io/assets/142996242/f5fb434b-3fb0-45c3-82ee-1dd846dbca9d)
  
